@@ -2,6 +2,8 @@
 
 This is a Time Series Library tailor-made for MQL5. This Library is designed to handle some useful operations regarding Time Series dataset. 
 
+The file is supposed to be in the include directory of MetaTrader5
+
 The array of features includes:
 
    ```void     PlotDataset(matrix &dataset,int colum);```
