@@ -1,4 +1,4 @@
-<img src="https://github.com/joaopaulo-souza/Time-Series-for-MQL5/blob/master/robot-timeseries.jpeg">
+<img src="https://github.com/joaopaulo-souza/Time-Series-for-MQL5/blob/master/robot-timeseries.jpeg" width="500">
 
 # Time Series for MQL5
 
