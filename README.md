@@ -1,10 +1,10 @@
-<img src="">
+<img src="https://github.com/joaopaulo-souza/Time-Series-for-MQL5/blob/master/robot-timeseries.jpeg">
 
 # Time Series for MQL5
 
 This is a Time Series Library tailor-made for MQL5. This Library is designed to handle some useful operations regarding Time Series dataset. 
 
-The file is supposed to be in the include directory of MetaTrader5
+The file TimeSeriesData.mqh is supposed to be in the include directory of MetaTrader5
 
 The array of features includes:
 
